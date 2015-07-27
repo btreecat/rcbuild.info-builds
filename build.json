@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "RCX 250",
+    "esc": "Blue Series 12a",
+    "motor": "RCX/H1806-2400KV-Micro-Outrunner-Brushless-Motor",
+    "fc": "ReadyToFlyQuads/Flip32+-v2.5-r7",
+    "prop": [
+      "GemFan 5x4 Direct Drive Carbon Fiber Composite"
+    ],
+    "arm": "ZMR V2",
+    "battery": [
+      "Glacier 1800mAh 3S 30C"
+    ],
+    "osd": "ReadyToFlyQuads/Micro-MinimOSD",
+    "receiver": "FrSky/D8R-II-Plus",
+    "flightcam": "Sony Super HAD II 600TVL 2.8mm",
+    "hqcam": "SpyTec/Mobius-Action-Cam",
+    "videotx": "Boscam TS5828 600mw SMA",
+    "blackbox": "",
+    "voltagereg": "Nucleus built in"
+  },
+  "version": 1
 }
